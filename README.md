@@ -80,7 +80,7 @@ See the [grading rubric](./rubric.md) for more details.
 
 ## Submission
 
-We use itHub for assignment submission. Invitation link:
+We use GitHub for assignment submission. Invitation link: https://classroom.github.com/a/henMCG33
 
 
 Your assignment notebook should be added to this GitHub repository before the deadline.
